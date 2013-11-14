@@ -1,0 +1,52 @@
+{
+  "name": "cloudlet_platform",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "dmccarthy",
+    "email": "dmccarthy@tssg.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.openi-ict.eu:cloudlet_platform.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/main",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+   "devDependencies": {
+      "grunt-contrib-jshint"    : "~0.6.4",
+      "grunt-contrib-nodeunit"  : "~0.2.0",
+      "grunt-contrib-watch"     : "~0.5.3",
+      "grunt-contrib-clean"     : "",
+      "grunt-contrib-concat"    : "",
+      "grunt-contrib-uglify"    : "",
+      "grunt-istanbul-coverage" : "",
+      "grunt-testem"            : "",
+      "grunt-qunit-cov"         : "",
+      "grunt-plato"             : "",
+      "grunt-node-tap"          : "",
+      "grunt-istanbul"          : "",
+      "grunt"                   : "~0.4.1",
+      "grunt-config"            :"",
+      "tap"                     : "",
+      "sinon"                   : ""
+   },
+   "dependencies": {
+      "data_api" : "git+ssh://git@gitlab.openi-ict.eu:data_api.git#master"
+   },
+  "keywords": []
+}
