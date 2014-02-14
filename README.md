@@ -9,7 +9,7 @@ Download the module with: `git clone git@gitlab.openi-ict.eu:cloudlet_platform.g
 
 
 ```javascript
-git@gitlab.openi-ict.eu:cloudlet_platform.git
+git clone git@gitlab.openi-ict.eu:cloudlet_platform.git
 cd cloudlet_platform
 npm install
 node lib/main.js
