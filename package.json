@@ -46,8 +46,10 @@
       "sinon"                   : ""
    },
    "dependencies": {
-      "data_api" : "git+ssh://git@gitlab.openi-ict.eu:data_api.git#master",
-      "dao"      : "git+ssh://git@gitlab.openi-ict.eu:dao.git#master"
+      "cloudlet_api" : "git+ssh://git@gitlab.openi-ict.eu:cloudlet_api.git#master",
+      "object_api"   : "git+ssh://git@gitlab.openi-ict.eu:object_api.git#master",
+      "type_api"     : "git+ssh://git@gitlab.openi-ict.eu:type_api.git#master",
+      "dao"          : "git+ssh://git@gitlab.openi-ict.eu:dao.git#master"
    },
   "keywords": []
 }
