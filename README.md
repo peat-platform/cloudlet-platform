@@ -4,6 +4,7 @@ This module download all the other modules for the cloudlet platform and starts 
 module execute node lib/main.js from the root folder.
 
 ## Getting Started
+
 Download the module with: `git clone git@gitlab.openi-ict.eu:cloudlet_platform.git` cd to the directory
 `cd cloudlet_platform` run node package manager `npm install` and start the cloudlet platform `node lib/main.js`
 
