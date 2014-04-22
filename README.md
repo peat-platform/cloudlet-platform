@@ -10,7 +10,7 @@ Download the module with: `git clone git@gitlab.openi-ict.eu:cloudlet_platform.g
 
 
 ```javascript
-git clone git@gitlab.openi-ict.eu:cloudlet_platform.git
+git clone git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet-platform.git
 cd cloudlet_platform
 npm install
 node lib/main.js
