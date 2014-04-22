@@ -43,10 +43,10 @@
       "sinon"                   : ""
    },
    "dependencies": {
-      "cloudlet_api" : "git+ssh://git@gitlab.openi-ict.eu:cloudlet_api.git#master",
-      "object_api"   : "git+ssh://git@gitlab.openi-ict.eu:object_api.git#master",
-      "type_api"     : "git+ssh://git@gitlab.openi-ict.eu:type_api.git#master",
-      "dao"          : "git+ssh://git@gitlab.openi-ict.eu:dao.git#master"
+      "cloudlet_api" : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet-api.git#master",
+      "object_api"   : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/object-api.git#master",
+      "type_api"     : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/type-api.git#master",
+      "dao"          : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/dao.git#master"
    },
   "keywords": []
 }
