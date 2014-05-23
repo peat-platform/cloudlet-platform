@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet-platform.git"
+    "url": "git@github.com:OPENi-ict/cloudlet-platform.git"
   },
   "bugs": {
     "url": ""
@@ -43,10 +43,10 @@
       "sinon"                   : ""
    },
    "dependencies": {
-      "cloudlet_api" : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet-api.git#master",
-      "object_api"   : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/object-api.git#master",
-      "type_api"     : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/type-api.git#master",
-      "dao"          : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/dao.git#master"
+      "cloudlet_api" : "OPENi-ict/cloudlet-api",
+      "object_api"   : "OPENi-ict/object-api",
+      "type_api"     : "OPENi-ict/type-api",
+      "dao"          : "OPENi-ict/dao"
    },
   "keywords": []
 }
