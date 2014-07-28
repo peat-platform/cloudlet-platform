@@ -43,10 +43,10 @@
       "sinon"                   : ""
    },
    "dependencies": {
-      "cloudlet_api" : "git+https://github.com/OPENi-ict/cloudlet-api.git",
-      "object_api"   : "git+https://github.com/OPENi-ict/object-api.git",
-      "type_api"     : "git+https://github.com/OPENi-ict/type-api.git",
-      "dao"          : "git+https://github.com/OPENi-ict/dao.git"
+      "cloudlet_api" : "OPENi-ict/cloudlet-api",
+      "object_api"   : "OPENi-ict/object-api",
+      "type_api"     : "OPENi-ict/type-api",
+      "dao"          : "OPENi-ict/dao"
    },
   "keywords": []
 }
