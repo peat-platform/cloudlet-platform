@@ -43,10 +43,18 @@
       "sinon"                   : ""
    },
    "dependencies": {
+<<<<<<< HEAD
       "cloudlet_api" : "OPENi-ict/cloudlet-api",
       "object_api"   : "OPENi-ict/object-api",
       "type_api"     : "OPENi-ict/type-api",
       "dao"          : "OPENi-ict/dao"
+=======
+      "swagger-def"  : "git+https://github.com/OPENi-ict/swagger-def.git",
+      "cloudlet_api" : "git+https://github.com/OPENi-ict/cloudlet-api.git",
+      "object_api"   : "git+https://github.com/OPENi-ict/object-api.git",
+      "type_api"     : "git+https://github.com/OPENi-ict/type-api.git",
+      "dao"          : "git+https://github.com/OPENi-ict/dao.git"
+>>>>>>> 4291f191809cb07a5aeef4f7fe060d4f5b110680
    },
   "keywords": []
 }
