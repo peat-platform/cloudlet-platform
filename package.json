@@ -43,6 +43,8 @@
       "sinon"                   : ""
    },
    "dependencies": {
+      "notifications": "git+https://github.com/OPENi-ict/notifications.git",
+      "dao"          : "git+https://github.com/OPENi-ict/dao.git",
       "swagger-def"  : "git+https://github.com/OPENi-ict/swagger-def.git",
       "cloudlet_api" : "git+https://github.com/OPENi-ict/cloudlet-api.git",
       "object_api"   : "git+https://github.com/OPENi-ict/object-api.git",
