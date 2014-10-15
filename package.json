@@ -2,7 +2,7 @@
   "name": "cloudlet_platform",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "http://www.openi-ict.eu/",
   "author": {
     "name": "dmccarthy",
     "email": "dmccarthy@tssg.org"
@@ -10,9 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:OPENi-ict/cloudlet-platform.git"
-  },
-  "bugs": {
-    "url": ""
   },
   "main": "lib/main",
   "engines": {
