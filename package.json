@@ -31,8 +31,8 @@
     "object_api": "git+https://github.com/OPENi-ict/object-api.git",
     "swagger-def": "git+https://github.com/OPENi-ict/swagger-def.git",
      "type_api": "git+https://github.com/OPENi-ict/type-api.git",
-     "search_api": "git+https://github.com/OPENi-ict/search-api.git",
-     "permissions_api": "git+https://github.com/OPENi-ict/permissions-api.git"
+     "search_api": "git+https://github.com/OPENi-ict/search_api.git",
+     "permissions_api": "git+https://github.com/OPENi-ict/permissions_api.git"
   },
   "keywords": []
 }
