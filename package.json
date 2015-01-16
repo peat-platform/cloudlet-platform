@@ -34,8 +34,8 @@
       "type_api": "git+https://github.com/OPENi-ict/type-api.git",
       "search_api": "git+https://github.com/OPENi-ict/search_api.git",
       "permissions_api": "git+https://github.com/OPENi-ict/permissions_api.git",
-      "auth-api": "git+https://github.com/OPENi-ict/auth-api.git",
-      "crud-api": "git+https://github.com/OPENi-ict/crud-api.git",
+      "auth_api": "git+https://github.com/OPENi-ict/auth-api.git",
+      "crud_api": "git+https://github.com/OPENi-ict/crud-api.git",
       "openi_rrd": "OPENi-ict/openi_rrd"
   },
   "keywords": []
