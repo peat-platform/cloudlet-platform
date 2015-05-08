@@ -1,8 +1,8 @@
 {
-  "name": "cloudlet_platform",
+  "name": "cloudlet-platform",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "http://www.openi-ict.eu/",
+  "homepage": "http://www.peat-platform.org/",
   "author": {
     "name": "dmccarthy",
     "email": "dmccarthy@tssg.org"
@@ -24,20 +24,20 @@
     "jshint-stylish": "^1.0.0"
   },
   "dependencies": {
-      "cloudlet_api": "git+https://github.com/peat-platform/cloudlet-api.git",
+      "cloudlet-api": "git+https://github.com/peat-platform/cloudlet-api.git",
       "dao": "git+https://github.com/peat-platform/dao.git",
       "m2nodehandler": "git+https://github.com/peat-platform/m2nodehandler.git",
       "notifications": "git+https://github.com/peat-platform/notifications.git",
-      "object_api": "git+https://github.com/peat-platform/object-api.git",
-      "attachments_api": "git+https://github.com/peat-platform/attachment-api.git",
+      "object-api": "git+https://github.com/peat-platform/object-api.git",
+      "attachments-api": "git+https://github.com/peat-platform/attachment-api.git",
       "swagger-def": "git+https://github.com/peat-platform/swagger-def.git",
-      "type_api": "git+https://github.com/peat-platform/type-api.git",
-      "search_api": "git+https://github.com/peat-platform/search_api.git",
-      "permissions_api": "git+https://github.com/peat-platform/permissions_api.git",
-      "auth_api": "git+https://github.com/peat-platform/auth-api.git",
-      "crud_api": "git+https://github.com/peat-platform/crud-api.git",
-      "openi_rrd": "git+https://github.com/peat-platform/openi_rrd",
-      "openi_aggregator":"git+https://github.com/peat-platform/openi_aggregator",
+      "type-api": "git+https://github.com/peat-platform/type-api.git",
+      "search-api": "git+https://github.com/peat-platform/search-api.git",
+      "permissions-api": "git+https://github.com/peat-platform/permissions-api.git",
+      "auth-api": "git+https://github.com/peat-platform/auth-api.git",
+      "crud-api": "git+https://github.com/peat-platform/crud-api.git",
+      "peat-rrd": "git+https://github.com/peat-platform/peat-rrd",
+      "peat-aggregator":"git+https://github.com/peat-platform/peat-aggregator",
       "commander":""
   },
   "keywords": []
