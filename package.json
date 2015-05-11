@@ -29,7 +29,7 @@
       "m2nodehandler": "git+https://github.com/peat-platform/m2nodehandler.git",
       "notifications": "git+https://github.com/peat-platform/notifications.git",
       "object-api": "git+https://github.com/peat-platform/object-api.git",
-      "attachments-api": "git+https://github.com/peat-platform/attachment-api.git",
+      "attachment-api": "git+https://github.com/peat-platform/attachment-api.git",
       "swagger-def": "git+https://github.com/peat-platform/swagger-def.git",
       "type-api": "git+https://github.com/peat-platform/type-api.git",
       "search-api": "git+https://github.com/peat-platform/search-api.git",
