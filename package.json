@@ -1,44 +1,51 @@
 {
-  "name": "cloudlet-platform",
-  "description": "The best project ever.",
-  "version": "0.1.0",
-  "homepage": "http://www.peat-platform.org/",
-  "author": {
-    "name": "dmccarthy",
-    "email": "dmccarthy@tssg.org"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:peat-platform/cloudlet-platform.git"
-  },
-  "main": "lib/main",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt default"
-  },
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^0.10.0",
-    "jshint-stylish": "^1.0.0"
-  },
-  "dependencies": {
-      "cloudlet-api": "git+https://github.com/peat-platform/cloudlet-api.git",
-      "dao": "git+https://github.com/peat-platform/dao.git",
-      "m2nodehandler": "git+https://github.com/peat-platform/m2nodehandler.git",
-      "notifications": "git+https://github.com/peat-platform/notifications.git",
-      "object-api": "git+https://github.com/peat-platform/object-api.git",
-      "attachment-api": "git+https://github.com/peat-platform/attachment-api.git",
-      "swagger-def": "git+https://github.com/peat-platform/swagger-def.git",
-      "type-api": "git+https://github.com/peat-platform/type-api.git",
-      "search-api": "git+https://github.com/peat-platform/search-api.git",
-      "permissions-api": "git+https://github.com/peat-platform/permissions-api.git",
-      "auth-api": "git+https://github.com/peat-platform/auth-api.git",
-      "crud-api": "git+https://github.com/peat-platform/crud-api.git",
-      "peat-rrd": "git+https://github.com/peat-platform/peat-rrd.git",
-      "peat-aggregator":"git+https://github.com/peat-platform/peat-aggregator.git",
-      "commander":""
-  },
-  "keywords": []
+   "name": "cloudlet-platform",
+   "description": "The best project ever.",
+   "version": "0.1.0",
+   "homepage": "http://www.peat-platform.org/",
+   "author": {
+      "name": "dmccarthy",
+      "email": "dmccarthy@tssg.org"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git@github.com:peat-platform/cloudlet-platform.git"
+   },
+   "main": "lib/main",
+   "engines": {
+      "node": ">= 0.8.0"
+   },
+   "scripts": {
+      "test": "grunt default"
+   },
+   "devDependencies": {
+      "grunt": "^0.4.5",
+      "grunt-contrib-jshint": "^0.10.0",
+      "jshint-stylish": "^1.0.0"
+   },
+   "dependencies": {
+      "cloudlet-utils"  : "peat-platform/cloudlet-utils",
+      "dao"             : "peat-platform/dao",
+      "dbc"             : "peat-platform/dbc",
+      "loglet"          : "peat-platform/loglet",
+      "m2nodehandler"   : "peat-platform/m2nodehandler",
+      "peat-aggregator" : "peat-platform/peat-aggregator",
+      "peat-logger"     : "peat-platform/peat-logger",
+      "swagger-def"     : "peat-platform/swagger-def",
+      "tracklet"        : "peat-platform/tracklet",
+      "commander"       : "",
+      "couchbase"       : "^2.0.8",
+      "gcm"             : "",
+      "http"            : "",
+      "http-status"     : "",
+      "jsonwebtoken"    : "5.0.5",
+      "moment"          : "",
+      "scrypt"          : "",
+      "squel"           : "",
+      "underscore"      : "^1.6.0",
+      "uuid"            : "",
+      "validator"       : "",
+      "zmq"             : "~2.12.0"
+   },
+   "keywords": []
 }
