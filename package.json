@@ -30,7 +30,6 @@
       "loglet"          : "peat-platform/loglet",
       "m2nodehandler"   : "peat-platform/m2nodehandler",
       "peat-aggregator" : "peat-platform/peat-aggregator",
-      "peat-logger"     : "peat-platform/peat-logger",
       "swagger-def"     : "peat-platform/swagger-def",
       "tracklet"        : "peat-platform/tracklet",
       "commander"       : "",
