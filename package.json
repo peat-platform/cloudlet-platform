@@ -21,7 +21,7 @@
    "devDependencies": {
    },
    "dependencies": {
-      "cloudlet-utils"  : "peat-platform/cloudlet-utils#develop",
+      "cloudlet-utils"  : "peat-platform/cloudlet-utils",
       "swagger-def"     : "peat-platform/swagger-def",
       "m2nodehandler"   : "peat-platform/m2nodehandler",
       "dao"             : "peat-platform/dao#develop",
@@ -32,7 +32,7 @@
       "http-status"     : "",
       "jsonwebtoken"    : "5.0.5",
       "moment"          : "",
-      "scrypt"          : "",
+      "scrypt"          : "5.1.0",
       "squel"           : "",
       "underscore"      : "^1.6.0",
       "uuid"            : "",
