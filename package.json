@@ -19,20 +19,12 @@
       "test": "grunt default"
    },
    "devDependencies": {
-      "grunt": "^0.4.5",
-      "grunt-contrib-jshint": "^0.10.0",
-      "jshint-stylish": "^1.0.0"
    },
    "dependencies": {
-      "cloudlet-utils"  : "peat-platform/cloudlet-utils",
-      "dao"             : "peat-platform/dao",
-      "dbc"             : "peat-platform/dbc",
-      "loglet"          : "peat-platform/loglet",
-      "m2nodehandler"   : "peat-platform/m2nodehandler",
-      "peat-aggregator" : "peat-platform/peat-aggregator",
-      "peat-logger"     : "peat-platform/peat-logger",
+      "cloudlet-utils"  : "peat-platform/cloudlet-utils#develop",
       "swagger-def"     : "peat-platform/swagger-def",
-      "tracklet"        : "peat-platform/tracklet",
+      "m2nodehandler"   : "peat-platform/m2nodehandler",
+      "dao"             : "peat-platform/dao#develop",
       "commander"       : "",
       "couchbase"       : "^2.0.8",
       "gcm"             : "",
