@@ -26,7 +26,7 @@
       "m2nodehandler"   : "peat-platform/m2nodehandler",
       "dao"             : "peat-platform/dao#develop",
       "commander"       : "",
-      "couchbase"       : "^2.0.8",
+      "couchbase"       : "2.0.8",
       "gcm"             : "",
       "http"            : "",
       "http-status"     : "",
@@ -34,10 +34,10 @@
       "moment"          : "",
       "scrypt"          : "5.1.0",
       "squel"           : "",
-      "underscore"      : "^1.6.0",
+      "underscore"      : "1.6.0",
       "uuid"            : "",
       "validator"       : "",
-      "zmq"             : "~2.12.0"
+      "zmq"             : "2.12.0"
    },
    "keywords": []
 }
