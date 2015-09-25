@@ -37,7 +37,7 @@
       "underscore"      : "1.6.0",
       "uuid"            : "",
       "validator"       : "",
-      "zmq"             : "2.12.0"
+      "zmq"             : "2.13.0"
    },
    "keywords": []
 }
